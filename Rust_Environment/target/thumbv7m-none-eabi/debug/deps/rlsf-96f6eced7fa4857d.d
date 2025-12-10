@@ -1,0 +1,12 @@
+/home/vmware/Workspace/Rust_Environment/1/target/thumbv7m-none-eabi/debug/deps/rlsf-96f6eced7fa4857d.d: /home/vmware/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/rlsf-0.2.1/src/lib.rs /home/vmware/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/rlsf-0.2.1/src/flex.rs /home/vmware/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/rlsf-0.2.1/src/int.rs /home/vmware/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/rlsf-0.2.1/src/tlsf.rs /home/vmware/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/rlsf-0.2.1/src/utils.rs /home/vmware/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/rlsf-0.2.1/src/../README.md
+
+/home/vmware/Workspace/Rust_Environment/1/target/thumbv7m-none-eabi/debug/deps/librlsf-96f6eced7fa4857d.rlib: /home/vmware/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/rlsf-0.2.1/src/lib.rs /home/vmware/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/rlsf-0.2.1/src/flex.rs /home/vmware/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/rlsf-0.2.1/src/int.rs /home/vmware/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/rlsf-0.2.1/src/tlsf.rs /home/vmware/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/rlsf-0.2.1/src/utils.rs /home/vmware/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/rlsf-0.2.1/src/../README.md
+
+/home/vmware/Workspace/Rust_Environment/1/target/thumbv7m-none-eabi/debug/deps/librlsf-96f6eced7fa4857d.rmeta: /home/vmware/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/rlsf-0.2.1/src/lib.rs /home/vmware/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/rlsf-0.2.1/src/flex.rs /home/vmware/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/rlsf-0.2.1/src/int.rs /home/vmware/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/rlsf-0.2.1/src/tlsf.rs /home/vmware/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/rlsf-0.2.1/src/utils.rs /home/vmware/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/rlsf-0.2.1/src/../README.md
+
+/home/vmware/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/rlsf-0.2.1/src/lib.rs:
+/home/vmware/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/rlsf-0.2.1/src/flex.rs:
+/home/vmware/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/rlsf-0.2.1/src/int.rs:
+/home/vmware/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/rlsf-0.2.1/src/tlsf.rs:
+/home/vmware/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/rlsf-0.2.1/src/utils.rs:
+/home/vmware/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/rlsf-0.2.1/src/../README.md:

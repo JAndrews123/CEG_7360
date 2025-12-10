@@ -1,0 +1,4 @@
+cargo:rustc-link-lib=static=cortex-m
+cargo:rustc-link-search=/home/vmware/Workspace/embedded_rust_toolchain_webseminar/1/target/thumbv7m-none-eabi/release/build/cortex-m-91ad9a260751ae1e/out
+cargo:rustc-cfg=cortex_m
+cargo:rustc-cfg=armv7m

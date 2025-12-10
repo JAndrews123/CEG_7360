@@ -1,0 +1,11 @@
+/home/vmware/Workspace/embedded_rust_toolchain_webseminar/1/target/debug/deps/semver_parser-4303b0cdb3cb2fd4.d: /home/vmware/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/semver-parser-0.7.0/src/lib.rs /home/vmware/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/semver-parser-0.7.0/src/version.rs /home/vmware/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/semver-parser-0.7.0/src/range.rs /home/vmware/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/semver-parser-0.7.0/src/common.rs /home/vmware/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/semver-parser-0.7.0/src/recognize.rs
+
+/home/vmware/Workspace/embedded_rust_toolchain_webseminar/1/target/debug/deps/libsemver_parser-4303b0cdb3cb2fd4.rlib: /home/vmware/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/semver-parser-0.7.0/src/lib.rs /home/vmware/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/semver-parser-0.7.0/src/version.rs /home/vmware/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/semver-parser-0.7.0/src/range.rs /home/vmware/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/semver-parser-0.7.0/src/common.rs /home/vmware/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/semver-parser-0.7.0/src/recognize.rs
+
+/home/vmware/Workspace/embedded_rust_toolchain_webseminar/1/target/debug/deps/libsemver_parser-4303b0cdb3cb2fd4.rmeta: /home/vmware/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/semver-parser-0.7.0/src/lib.rs /home/vmware/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/semver-parser-0.7.0/src/version.rs /home/vmware/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/semver-parser-0.7.0/src/range.rs /home/vmware/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/semver-parser-0.7.0/src/common.rs /home/vmware/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/semver-parser-0.7.0/src/recognize.rs
+
+/home/vmware/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/semver-parser-0.7.0/src/lib.rs:
+/home/vmware/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/semver-parser-0.7.0/src/version.rs:
+/home/vmware/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/semver-parser-0.7.0/src/range.rs:
+/home/vmware/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/semver-parser-0.7.0/src/common.rs:
+/home/vmware/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/semver-parser-0.7.0/src/recognize.rs:
