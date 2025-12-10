@@ -1,3 +1,0 @@
-cargo:rustc-link-search=/home/vmware/Workspace/embedded_rust_toolchain_webseminar/1/target/thumbv7m-none-eabi/release/build/stm32f1-ce000d1e32c6261f/out
-cargo:rerun-if-changed=src/stm32f100/device.x
-cargo:rerun-if-changed=build.rs

@@ -1,1 +1,0 @@
-Result<Serial<stm32f4xx_hal::pac::USART2, (stm32f4xx_hal::gpio::Pin<Alternate<PushPull, 7>, 'A', 2>, stm32f4xx_hal::gpio::Pin<Alternate<PushPull, 7>, 'A', 3>), _>, InvalidConfig>
